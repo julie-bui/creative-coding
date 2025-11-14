@@ -5,7 +5,7 @@
 
 - Ensured smooth performance and an engaging experience, blending technical skills with creativity.
 - 
-** Description of project:** 
+**Description of project:** 
 - The dataset represents data collected over a week of dance lessons, with the first column representing the duration of the dance lesson, second column representing length of the choreography and the third column represents the number of people in class. 
 
 - Each row of the data represents a ball and the colours change randomly when the space bar is pressed. The starting position of the ball is dependant on the x and y values of the first and second column and the size of the ball is dependent on the third column.
